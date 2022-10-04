@@ -1,16 +1,23 @@
-# money_manager
+![banner](https://user-images.githubusercontent.com/58967706/193883385-6c15348e-8b7d-473f-bfd3-23282f6631b4.png)
 
-A new Flutter project.
 
-## Getting Started
+# Money Manager
+A money management application which lets users monitor their monthly expenses and income and gives them a detailed analysis of their spends, thereby helping them to cut down their expenses.
 
-This project is a starting point for a Flutter application.
+[![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) 
 
-A few resources to get you started if this is your first Flutter project:
+## Download
+[<img src="https://img.shields.io/badge/Playstore-000000?logo=googleplay&logoColor=white"
+     alt="Download from playstore"
+     height="60">](https://play.google.com/store/apps/details?id=in.brototype.diary_money_manager)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- User can add/edit transactions 
+- User can create and customize categories
+- User can view daily transactions in a diary view
+- Detailed statistical chart on expense/income and monthly/yearly basis
+- Filter transactions
+- Daily Reminder reminds the user to add daily transactions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="https://user-images.githubusercontent.com/58967706/193879540-d567a487-a979-4864-a89b-c8c63117c431.jpeg" width="32%"> <img src="https://user-images.githubusercontent.com/58967706/193879812-43d12acd-289d-4945-be34-74515cfc57bd.jpeg?raw=true" width="32%"> <img src="https://user-images.githubusercontent.com/58967706/193880624-0ab745d0-f0e3-4645-b279-2906a45ad484.jpeg?raw=true" width="32%"> <img src="https://user-images.githubusercontent.com/58967706/193881020-498fc4b0-d927-4321-a12b-638a3bee935a.jpeg?raw=true" width="32%"> <img src="https://user-images.githubusercontent.com/58967706/193881917-f6560f0d-1ec8-454b-ae2c-cf00a2f08f6e.jpeg?raw=true" width="32%"> <img src="https://user-images.githubusercontent.com/58967706/193881639-71219d12-24a3-4b87-bcb2-e76951ae245d.jpeg?raw=true" width="32%">
