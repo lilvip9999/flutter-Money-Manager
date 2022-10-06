@@ -7,9 +7,9 @@ A money management application which lets users monitor their monthly expenses a
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) 
 
 ## Download
-[<img src="https://img.shields.io/badge/Playstore-000000?logo=googleplay&logoColor=white"
-     alt="Download from playstore"
-     height="60">](https://play.google.com/store/apps/details?id=in.brototype.diary_money_manager)
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play"  height="70"/>](https://play.google.com/store/apps/details?id=in.brototype.diary_money_manager)
+
 
 ## Features
 - User can add/edit transactions 
